@@ -64,6 +64,12 @@
     <Compile Include="FormNuevo.Designer.cs">
       <DependentUpon>FormNuevo.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormNuevo02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNuevo02.Designer.cs">
+      <DependentUpon>FormNuevo02.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormCompilar.resx">
