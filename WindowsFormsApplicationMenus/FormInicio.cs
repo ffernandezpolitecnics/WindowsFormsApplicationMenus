@@ -21,7 +21,7 @@ namespace WindowsFormsApplicationMenus
         {
             FormCompilar f = new FormCompilar("Compilar solución");
 
-
+            //Pongo
 
             f.Show();
         }
