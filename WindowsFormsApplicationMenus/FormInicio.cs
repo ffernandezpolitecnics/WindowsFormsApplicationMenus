@@ -20,6 +20,9 @@ namespace WindowsFormsApplicationMenus
         private void abrirFormCompilar()
         {
             FormCompilar f = new FormCompilar("Compilar solución");
+
+
+
             f.Show();
         }
 
